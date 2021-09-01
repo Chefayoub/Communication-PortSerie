@@ -1,0 +1,10 @@
+C:\Users\ayoub\Desktop\az\Electronique_AyoubAllachi\obj\Debug\AA_PortSerie.csproj.AssemblyReference.cache
+C:\Users\ayoub\Desktop\az\Electronique_AyoubAllachi\obj\Debug\AA_PortSerie.csproj.GenerateResource.cache
+C:\Users\ayoub\Desktop\az\Electronique_AyoubAllachi\obj\Debug\AA_PortSerie.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\Desktop\az\Electronique_AyoubAllachi\bin\Debug\AA_PortSerie.exe.config
+C:\Users\ayoub\Desktop\az\Electronique_AyoubAllachi\bin\Debug\AA_PortSerie.exe
+C:\Users\ayoub\Desktop\az\Electronique_AyoubAllachi\bin\Debug\AA_PortSerie.pdb
+C:\Users\ayoub\Desktop\az\Electronique_AyoubAllachi\obj\Debug\AA_PortSerie.Properties.Resources.resources
+C:\Users\ayoub\Desktop\az\Electronique_AyoubAllachi\obj\Debug\AA_PortSerie.exe
+C:\Users\ayoub\Desktop\az\Electronique_AyoubAllachi\obj\Debug\AA_PortSerie.pdb
+C:\Users\ayoub\Desktop\az\Electronique_AyoubAllachi\obj\Debug\AA_PortSerie.Accueil.resources
